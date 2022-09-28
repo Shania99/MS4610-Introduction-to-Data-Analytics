@@ -1,6 +1,6 @@
 # MS4610: Introduction to Data Analytics
 
-The repository contains code for MS4610: Intorduction to Data Analytics review clustering project.
+The repository contains code for MS4610: Introduction to Data Analytics review clustering project.
 
 Natural Language Processing is application of data-driven techniques to interpret natural lan-
 guage and speech. Text Analysis in specific uses Machine Learning to extract information from
