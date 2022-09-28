@@ -1,4 +1,4 @@
-# MS4610-Introduction-to-Data-Analytics
+# MS4610: Introduction to Data Analytics
 
 The repository contains code for MS4610: Intorduction to Data Analytics review clustering project.
 
